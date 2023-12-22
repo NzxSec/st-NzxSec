@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "HackGen35:size=12";
+static char *font = "SourceCodePro-Medium:size=12";
 static int borderpx = 2;
 
 /*
