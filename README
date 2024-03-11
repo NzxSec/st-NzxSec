@@ -23,3 +23,5 @@ st-NzxSec ver 1.3 README
     mv config.h config.h.buk
     make 
     sudo make install
+
+Terminal ColorScheme: elly
